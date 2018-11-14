@@ -2,26 +2,34 @@ body {
 	background-color: #F8FAFC; 
 	color: #4B4656;
 	font-family: 'Poppins', sans-serif;
-	font-size: 26px;
-	line-height: 36px;
+	font-size: 20px;
+	line-height: 1.5;
 	text-align: center;
 }
 
 h1 {
 	font-family: 'Poppins', sans-serif;
 	font-size: 48px;
-	line-height: 68px;
+	line-height: 1.5;
+}
+
+h2 {
+	font-family: 'Poppins', sans-serif;
+	font-size: 26px;
+	font-weight: normal;
+	line-height: 1.5;
 }
 
 .skills-container {
+	align-items: center;
 	background-color: #F5E493; 
 	display: flex;
 	flex-flow: column wrap;
-	justify-content: space-around;
+	justify-content: center;
 	padding: 20px;
 }
 
-.skills-container div {
+.skills-row {
 	align-items: center;
 	display: flex;
 	flex: 1;
@@ -29,8 +37,15 @@ h1 {
 	padding: 10px;
 }
 
-.skills-container img, .skills-container p {
+.skill {
+	flex: 1;
+	margin: 20px;
+
+}
+
+.skill img, .skill p {
 	align-items: flex-start;
+	white-space: nowrap;
 }
 
 .icon {
@@ -73,18 +88,3 @@ a:active {
 	flex: 1;
 }
 
-/*.skills-row {
-	align-content: center;
-	background-color: #F5E493; 
-	display: flex;
-	justify-content: space-around;
-	padding: 20px;
-}
-.skills-column {
-	align-content: center;
-	background-color: #F5E493; 
-	display: flex;
-	flex-direction: column;
-	justify-content: space-around;
-	padding: 20px;
-}*/
