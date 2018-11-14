@@ -1,0 +1,90 @@
+body {
+	background-color: #F8FAFC; 
+	color: #4B4656;
+	font-family: 'Poppins', sans-serif;
+	font-size: 26px;
+	line-height: 36px;
+	text-align: center;
+}
+
+h1 {
+	font-family: 'Poppins', sans-serif;
+	font-size: 48px;
+	line-height: 68px;
+}
+
+.skills-container {
+	background-color: #F5E493; 
+	display: flex;
+	flex-flow: column wrap;
+	justify-content: space-around;
+	padding: 20px;
+}
+
+.skills-container div {
+	align-items: center;
+	display: flex;
+	flex: 1;
+	flex-flow: row wrap;
+	padding: 10px;
+}
+
+.skills-container img, .skills-container p {
+	align-items: flex-start;
+}
+
+.icon {
+	border-radius: 50%;
+}
+
+.contact-container {
+	display: flex;
+	flex: 1;
+	justify-content: space-around;
+	padding: 20px;
+}
+
+.button, a {
+	border: 4px solid #4B4656;
+	border-radius: 8px;
+	color: #4B4656;
+	font-family: 'Poppins', sans-serif;
+	font-size: 26px;
+	line-height: 36px;
+	margin: 20px 80px;
+	padding: 10px;
+	text-align: center;
+	text-decoration: none;
+}
+
+a:hover {
+	background-color: #4B4656;
+	border: 4px solid #F8FAFC;
+	color: #F8FAFC;
+}
+
+a:active {
+	border: 4px solid #4B4656;
+	border-radius: 8px;
+	color: #4B4656;
+}
+
+.contact-container a {
+	flex: 1;
+}
+
+/*.skills-row {
+	align-content: center;
+	background-color: #F5E493; 
+	display: flex;
+	justify-content: space-around;
+	padding: 20px;
+}
+.skills-column {
+	align-content: center;
+	background-color: #F5E493; 
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	padding: 20px;
+}*/
