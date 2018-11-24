@@ -21,6 +21,19 @@ h2 {
 	margin: 48px 10px;
 }
 
+.text-container {
+	align-items: center;
+	display: flex;
+	flex-flow: column;
+	justify-content: center;
+	margin: 32px;
+}
+
+.text-container p {
+	margin: 12px;
+	max-width: 600px;
+	text-align: left;
+}
 .skills-container {
 	align-items: center;
 	background-color: #F5E493; 
@@ -58,7 +71,7 @@ h2 {
 	flex: 1;
 	flex-flow: row wrap;
 	justify-content: center;
-	padding: 32px;
+	margin: 32px;
 }
 
 .contact-icon {
