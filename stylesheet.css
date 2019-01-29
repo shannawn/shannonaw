@@ -65,7 +65,7 @@ h4 {
 	text-align: left;
 }
 
-.text-container-left a {
+.text-container-left a:hover, a:active, a:visited, a:hover {
 	color: #4B4656;
 	text-decoration: underline;
 }
@@ -109,7 +109,7 @@ h4 {
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
-	margin: 32px;
+	margin: 22px;
 	text-align: center;
 }
 
@@ -120,7 +120,6 @@ h4 {
 }
 
 .footer-container {
-	justify-content: center;
 	background-color: #4B4656; 
 	box-shadow: 0 1px 4px 2px #0000001f;
 	color: #F8FAFC;
@@ -128,6 +127,7 @@ h4 {
 	font-family: 'Roboto', sans-serif;
 	font-size: 16px;
 	font-weight: 300;
+	justify-content: center;
 	line-height: 1.2;
 	padding: 20px;
 	text-align: left;
@@ -142,7 +142,7 @@ h4 {
 @media only screen and (max-width: 600px) {
 	h1 {
 		font-size: 36px;
-		margin: 42px 0;
+		margin: 32px 0;
 	}
 
 	.skills-row {
@@ -151,7 +151,7 @@ h4 {
 	}
 
 	.contact-container {
-		margin: 32px 0;
+		margin: 22px 0;
 }
 }
 
