@@ -35,9 +35,9 @@
           <div class="text-container-left">
           {% for doc in doclist %}
             {% unless doc.name = 'index.md' %}
-                <p>
-                  <a href="{{ site.baseurl }}{{ doc.url }}">{{ doc.name }}</a>
-                </p>
+              <p>
+                <a href="{{ site.baseurl }}{{ doc.url }}">{{ doc.name }}</a>
+              </p>
             {% endunless %}
           {% endfor %}
           </div> 
