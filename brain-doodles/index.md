@@ -34,7 +34,7 @@
         {% assign doclist = site.pages | sort: 'url'  %}
           <div class="text-container-left">
           {% for doc in doclist %}
-            {% unless doc.name = 'index1.md' %}
+            {% unless doc.name = 'index.md' %}
               <p>
                 <a href="{{ site.baseurl }}{{ doc.url }}">{{ doc.name }}</a>
               </p>
