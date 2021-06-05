@@ -35,10 +35,12 @@
           <div class="text-container-left">
           {% for doc in doclist %}
             {% if doc.name contains '.md' %}
-                <a href="{{ site.baseurl }}{{ doc.url }}">{{ doc.name }}</a>
+                <p>
+                  <a href="{{ site.baseurl }}{{ doc.url }}">{{ doc.name }}</a>
+                </p>
             {% endif %}
-        {% endfor %}
-          </ul> 
+          {% endfor %}
+          </div> 
       </main>
     </body>
 </html>
