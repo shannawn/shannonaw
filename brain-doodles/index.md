@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="brain doodles"/>
     <meta property="og:title" content="brain doodles">
-    <title>brain scribbles</title>
+    <title>brain doodles</title>
     <link href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@300;400;500&display=swap" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="../stylesheet.css">
     <link rel="apple-touch-icon" sizes="57x57" href="../shortcut_icons/apple-icon-57x57.png">
