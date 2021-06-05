@@ -152,6 +152,6 @@ h4 {
 
 @media only screen and (min-width: 601px) {
   .mobile-break {
-    display: none;
+      display: none;
   }
 }
