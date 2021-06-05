@@ -38,7 +38,7 @@
                 <p>
                   <a href="{{ site.baseurl }}{{ doc.url }}">{{ doc.name }}</a>
                 </p>
-            {% endif %}
+            {% endunless %}
           {% endfor %}
           </div> 
       </main>
