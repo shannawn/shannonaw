@@ -1,5 +1,6 @@
 ---
 title: 2021 resolutions - and yet she is
+date: Jan 1 2021
 ---
 Today, I choose to let love win. 
 
