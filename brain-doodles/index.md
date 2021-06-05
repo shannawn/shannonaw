@@ -28,15 +28,15 @@
   </head>
     <body>
       <header>
-        <h1>brain doodles1</h1>
+        <h1>brain doodles</h1>
       </header>
       <main>
         {% assign doclist = site.pages | sort: 'url'  %}
           <div class="text-container-left">
           {% for doc in doclist %}
-            {% unless doc.name == 'index.md' %}
+            {% unless doc.name == 'index.md' and contains '.md' %}
               <p>
-                <a href="{{ site.baseurl }}{{ doc.url }}">{{ doc.name }}</a>
+                <a href="{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
               </p>
             {% endunless %}
           {% endfor %}
