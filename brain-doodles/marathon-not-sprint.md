@@ -1,5 +1,6 @@
 ---
 title: marathon not a sprint
+date: June 5 2021
 ---
 I've been training for a marathon. Well, I'm not training for a marathon - but I'm doing the training program for people who are training to run a marathon.
 
