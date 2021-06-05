@@ -26,21 +26,21 @@
     <meta name="msapplication-TileImage" content="../ms-icon-144x144.png">
     <meta name="theme-color" content="#ffffff">
   </head>
-    <body>
-      <header>
-        <h1>brain doodles</h1>
-      </header>
-      <main>
-        {% assign doclist = site.pages | sort: 'url'  %}
-          <div class="text-container-left">
-          {% for doc in doclist %}
-            {% if doc.name != 'index.md' and doc.name contains '.md' %}
-              <p>
-                <a href="{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
-              </p>
-            {% endif %}
-          {% endfor %}
-          </div> 
-      </main>
-    </body>
+  <body>
+    <header>
+      <h1>brain doodles</h1>
+    </header>
+    <main>
+      {% assign doclist = site.pages | sort: 'url'  %}
+        <div class="text-container-left">
+        {% for doc in doclist %}
+          {% if doc.name != 'index.md' and doc.name contains '.md' %}
+            <p>
+              <a href="{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
+            </p>
+          {% endif %}
+        {% endfor %}
+        </div> 
+    </main>
+  </body>
 </html>
