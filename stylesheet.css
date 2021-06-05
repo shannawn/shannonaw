@@ -70,7 +70,7 @@ h4 {
 	text-decoration: underline;
 }
 
-.skills-container {
+.colour-container {
 	align-items: center;
 	background-color: #B1B0E3; 
 	/* box-shadow: 0 1px 4px 2px #0000001f; */
@@ -81,6 +81,17 @@ h4 {
 	justify-content: center;
 	padding-bottom: 32px;
 	padding-top: 32px;
+}
+
+.colour-container-left p {
+	margin: 12px 0;
+	max-width: 600px;
+	text-align: left;
+}
+
+.colour-container-left a:link, a:hover, a:active, a:visited, a:hover {
+	color: #2C252C;
+	text-decoration: underline;
 }
 
 .skills-row {

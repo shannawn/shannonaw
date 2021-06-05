@@ -1,10 +1,10 @@
-------
+<!doctype html>
 <html lang="en">
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="brain scribbles"/>
-    <meta property="og:title" content="brain scribbles">
+    <meta name="description" content="brain doodles"/>
+    <meta property="og:title" content="brain doodles">
     <title>brain scribbles</title>
     <link href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@300;400;500&display=swap" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="../stylesheet.css">
@@ -25,19 +25,17 @@
     <meta name="msapplication-TileColor" content="#ffffff">
     <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
     <meta name="theme-color" content="#ffffff">
+    <title>{{ page.title }}</title>
   </head>
-    <body>
-      <header>
-        <h1>brain scribbles</h1>
-        {% assign doclist = site.pages | sort: 'url'  %}
-          <ul>
-          {% for doc in doclist %}
-            {% if doc.name contains '.md' %}
-                <li><a href="{{ site.baseurl }}{{ doc.url }}">{{ doc.name }}</a></li>
-            {% endif %}
-        {% endfor %}
-          </ul> 
-      </header>
-    
-    </body>
+  <body>
+    <h1>{{ page.title }}</h1>
+    <main>
+      <div class="colour-container">
+      {{ content }}
+      </div>
+    </main>
+    <footer class="footer-container">
+      <p>&copy; shannon auster-weiss
+    </footer>
+  </body>
 </html>
