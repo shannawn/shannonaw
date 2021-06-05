@@ -7,7 +7,7 @@
     <meta property="og:title" content="brain doodles">
     <title>brain doodles</title>
     <link href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@300;400;500&display=swap" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" href="./brain-doodles/stylesheet.css">
+    <link rel="stylesheet" type="text/css" href="/brain-doodles/stylesheet.css">
     <link rel="apple-touch-icon" sizes="57x57" href="../shortcut_icons/apple-icon-57x57.png">
     <link rel="apple-touch-icon" sizes="60x60" href="../shortcut_icons/apple-icon-60x60.png">
     <link rel="apple-touch-icon" sizes="72x72" href="../shortcut_icons/apple-icon-72x72.png">
