@@ -3,12 +3,12 @@
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="brain doodles"/>
+    <meta property="og:type" content="profile">
     <meta property="og:title" content="brain doodles">
     <meta property="og:image" content="shortcut_icons/shortcut_icon.png">
     <title>brain doodles</title>
     <link href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@300;400;500&display=swap" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" href="/brain-doodles/stylesheet.css">
+    <link rel="stylesheet" type="text/css" href="stylesheet.css">
     <link rel="apple-touch-icon" sizes="57x57" href="shortcut_icons/apple-icon-57x57.png">
     <link rel="apple-touch-icon" sizes="60x60" href="shortcut_icons/apple-icon-60x60.png">
     <link rel="apple-touch-icon" sizes="72x72" href="shortcut_icons/apple-icon-72x72.png">
@@ -26,19 +26,18 @@
     <meta name="msapplication-TileColor" content="#ffffff">
     <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
     <meta name="theme-color" content="#ffffff">
-    <title>{{ page.title }}</title>
   </head>
   <body>
     <header>
       <h1>{{ page.title }}</h1>
     </header>
   </div>
-    <section>
+    <main>
       <div class="text-container-left">
       {{ content }}
       </div>
-    </section>
-    <footer>
+    </main>
+    <footer class="text-container-left">
       <p>{{ page.date }} &copy; shannon auster-weiss</p>
     </footer>
   </body>
