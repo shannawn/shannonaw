@@ -3,8 +3,8 @@
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="brain scribbles"/>
-    <meta property="og:title" content="brain scribbles">
+    <meta name="description" content="brain doodles"/>
+    <meta property="og:title" content="brain doodles">
     <title>brain scribbles</title>
     <link href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@300;400;500&display=swap" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="../stylesheet.css">
@@ -34,11 +34,11 @@
         {% assign doclist = site.pages | sort: 'url'  %}
           <div class="text-container-left">
           {% for doc in doclist %}
-            {% unless doc.name == 'index.md' and contains '.md' %}
+            {% if doc.name != 'index.md' and contains '.md' %}
               <p>
                 <a href="{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
               </p>
-            {% endunless %}
+            {% endif %}
           {% endfor %}
           </div> 
       </main>
