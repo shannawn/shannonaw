@@ -1,7 +1,7 @@
 body {
 	background-color: #F8FAFC; 
-	color: #4B4656;
-	font-family: 'Roboto', sans-serif;
+	color: #2C252C;
+	font-family: 'Work Sans', sans-serif;
 	font-size: 20px;
 	font-weight: 300;
 	line-height: 1.2;
@@ -10,14 +10,14 @@ body {
 }
 
 h1 {
-	font-family: 'Poppins', sans-serif;
+	font-family: 'Work Sans', sans-serif;
 	font-size: 42px;
 	font-weight: 400;
 	margin: 48px 10px;
 }
 
 h4 {
-	font-family: 'Poppins', sans-serif;
+	font-family: 'Work Sans', sans-serif;
 	font-weight: 400;
 	margin-bottom: 12px;
     margin-top: 24px;
@@ -28,7 +28,7 @@ h4 {
 
 .headshot {
 	border-radius: 50%;
-	box-shadow: 0 1px 4px 2px #0000001f;
+	/* box-shadow: 0 1px 4px 2px #0000001f; */
 	width: 200px;
 }
 
@@ -50,7 +50,7 @@ h4 {
 	align-items: center;
 	display: flex;
 	flex-direction: column;
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Work Sans', sans-serif;
 	font-size: 20px;
 	font-weight: 300;
 	justify-content: center;
@@ -66,14 +66,14 @@ h4 {
 }
 
 .text-container-left a:link, a:hover, a:active, a:visited, a:hover {
-	color: #4B4656;
+	color: #2C252C;
 	text-decoration: underline;
 }
 
 .skills-container {
 	align-items: center;
-	background-color: #F5E493; 
-	box-shadow: 0 1px 4px 2px #0000001f;
+	background-color: #B1B0E3; 
+	/* box-shadow: 0 1px 4px 2px #0000001f; */
 	display: flex;
 	flex-direction: column;
 	/*font-family: 'Poppins', sans-serif;
@@ -120,11 +120,11 @@ h4 {
 }
 
 .footer-container {
-	background-color: #4B4656; 
-	box-shadow: 0 1px 4px 2px #0000001f;
+	background-color: #2C252C; 
+	/* box-shadow: 0 1px 4px 2px #0000001f; */
 	color: #F8FAFC;
 	display: flex;
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Work Sans', sans-serif;
 	font-size: 16px;
 	font-weight: 300;
 	justify-content: center;
