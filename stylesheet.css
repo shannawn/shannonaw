@@ -83,17 +83,6 @@ h4 {
 	padding-top: 32px;
 }
 
-.colour-container-left p {
-	margin: 12px 0;
-	max-width: 600px;
-	text-align: left;
-}
-
-.colour-container-left a:link, a:hover, a:active, a:visited, a:hover {
-	color: #2C252C;
-	text-decoration: underline;
-}
-
 .skills-row {
 	align-items: flex-start;
 	display: flex;
