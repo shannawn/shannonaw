@@ -29,15 +29,16 @@
     <body>
       <header>
         <h1>brain doodles</h1>
+      </header>
+      <main>
         {% assign doclist = site.pages | sort: 'url'  %}
-          <ul>
+          <div class="text-container-left">
           {% for doc in doclist %}
             {% if doc.name contains '.md' %}
-                <li><a href="{{ site.baseurl }}{{ doc.url }}">{{ doc.name }}</a></li>
+                <a href="{{ site.baseurl }}{{ doc.url }}">{{ doc.name }}</a>
             {% endif %}
         {% endfor %}
           </ul> 
-      </header>
-    
+      </main>
     </body>
 </html>
