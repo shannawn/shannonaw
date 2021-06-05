@@ -1,5 +1,5 @@
 ---
-title: 2021 resolutions: and yet she is
+title: 2021 resolutions - and yet she is
 ---
 Today, I choose to let love win. 
 
