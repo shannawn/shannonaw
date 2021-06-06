@@ -18,11 +18,11 @@ Running far is a weird thing. I feel the exhaustion, the pain, the hurt. I forge
 
 At any point, I can call it. It's my choice and it's completely within my control and I don't.
 
-Because, it's growth, baby. And that growth, that strength makes me feel unstoppable. 
+Because, it's growth. And that growth, that strength makes me feel unstoppable. 
 
-I'm training myself to be unstoppable and starting with controlling my own thoughts. Because on hard running days, my thoughts are not super positive. My thoughts drift to think about my tired legs, my tense arms, or my sore feet. "When will it be over?" 
+I'm training myself to be unstoppable and starting with controlling my own thoughts. Because on hard running days, my thoughts are not super positive. My thoughts drift to thinking about my tired legs, my tense arms, or my sore feet. "When will it be over?" 
 
-And those aren't marathon thoughts - those are sprint thoughts. And baby, I'm running a marathon.
+And those aren't marathon thoughts - those are sprint thoughts. And I'm running a marathon.
 
 I don't want my thoughts to be "when will it be over", "just a little bit longer", "just fight the pain".
 
