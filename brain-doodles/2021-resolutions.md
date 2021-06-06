@@ -10,4 +10,4 @@ And I let go of those that do not because I know the difference between pain and
 
 I allow myself to be slow because I trust myself and my abilities. I know that when I try my best, it's better than I ever could've imagined. 
 
-Because I am as soft as I am strong, I keep my heart open and strengthen the muscles around it. I always want to be able to recieve the curiosity and gratitude that each moments holds as I've never seen one like it before. ♡
+Because I am as soft as I am strong, I keep my heart open and strengthen the muscles around it. I always want to be able to recieve the curiosity and gratitude that each moments holds as I've never seen one like it before.
