@@ -12,15 +12,15 @@ This is way more running than I thought I'd ever do. I planned on doing half the
 
 This past week, a few days before my third half marathon, I'd been thinking about continuing with the program - getting all the way to 42km, a proper marathon. I hadn't been happy with my times and I wanted to train harder.
 
-And on my third half marathon this week, I did. I ran my fastest half marathon and cut 20s off my average km pace. I came back with the usual aches, pains, dehydration, blisters, and something new - a blood blister.
+And on my third half marathon this week, I did. I ran my fastest half marathon and cut 20 seconds off my average km pace. I came back with the usual aches, pains, dehydration, blisters, and something new - a blood blister.
 
-Running far is a weird thing. I feel the exhaustaion, the pain, the hurt. I forget about it for a bit and adjust to the pain and endurance that's required of me. Then, in the last few kilometers, I want to stop running so badly - and I can - but I don't. I decide to keep running the full distance. Even though, I know I can stop at any point. But, I decide to put myself through this experience. And it's grueling, it's hard and it hurts. 
+Running far is a weird thing. I feel the exhaustion, the pain, the hurt. I forget about it for a bit and adjust to the pain and endurance that's required of me. Then, in the last few kilometers, I want to stop running so badly - and I can - but I don't. I decide to keep running the full distance. Even though, I know I can stop at any point. But, I decide to put myself through this experience. And it's grueling, it's hard and it hurts. 
 
-At any point, I can call it. It's my choice and it's complete within my control and I don't.
+At any point, I can call it. It's my choice and it's completely within my control and I don't.
 
 Because, it's growth, baby. And that growth, that strength makes me feel unstoppable. 
 
-I'm training myself to be unstoppable and starting with controlling by own thoughts. Because on hard running days, my thoughts are not super positive thoughts. My thoughts drift to think about my tired legs, my tense arms, or my sore feet. "When will it be over?" 
+I'm training myself to be unstoppable and starting with controlling my own thoughts. Because on hard running days, my thoughts are not super positive. My thoughts drift to think about my tired legs, my tense arms, or my sore feet. "When will it be over?" 
 
 And those aren't marathon thoughts - those are sprint thoughts. And baby, I'm running a marathon.
 
