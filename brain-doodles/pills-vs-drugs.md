@@ -17,11 +17,11 @@ We view pills as made in labs with rigorous trials that are then judged objectiv
 
 But let’s say that pills and drugs are more similar than we think. 
 
-*Pills almost sound so small, so inconsequential.*
+**Pills almost sound so small, so inconsequential.**
 
 Is a pill less inconsequential than a drug? No, this is just linguistics and marketing. It sounds small because the sounds are lighter, smaller, and tighter. And that was intentional. The name of these drugs was chosen by governments to create these associations. Because of this, I’ll use the word “drugs” in referring to both pills and drugs.
 
-*Pills are targeted medicine with side effects on your body.* 
+**Pills are targeted medicine with side effects on your body.**
 Pills and drugs are both drugs that we put into our bodies. 
 
 When we put these drugs into our body, they change the signals that tell our body important signals like our level of nutrients, fatigue, stress, etc. And our bodies are adaptable ecosystems that are trying to maintain a level of balance. Like many other ecosystems, when one aspect changes, other things change to adapt. Because of this, it’s very, very hard - arguably impossible - to have anything in our body that only targets one area. So, if we put something in our bodies, it will most likely impact other systems, organs, and cells. And not impact only the intended area. 
@@ -29,7 +29,7 @@ When we put these drugs into our body, they change the signals that tell our bod
 Because these drugs impact the signals that our body receives, these drugs impact our entire body and our behaviour. Any drug impacts our entire experience. Our bodies do not purely provide biological function and/or dysfunction, but our bodies impact how we feel, how we behave, what motivates us, and thus, the world around and within us too.
 Because of this, with each drug we take, we need to figure out if it works for our bodies for our experiences. It’s not a question of if it has impacts on our body, behaviour, and mind, but if we like those impacts.
 
-*Pills are made in labs with rigorous trials that are then judged objectively on their scientific methods and results before reaching the public.*
+**Pills are made in labs with rigorous trials that are then judged objectively on their scientific methods and results before reaching the public.**
 
 In our North American culture, we believe that humans observe and discover science - not that humans produce our knowledge of science - thus making the study and methods built upon human bias.
 
@@ -39,7 +39,7 @@ Today, our society biases towards clear, easy-to-understand results. This means 
 
 Right now, scientists are doing the best they can to understand the effects of these drugs with the information they have. And that’s okay - that’s all we can do - but as the consumer, we need to understand that these drugs aren’t foolproof.
 
-*All pills are drugs.*
+**All pills are drugs.**
 
 I believe that all pills should be thought of as drugs - and we should call them that. We should view any new drug we can take as having the potential to change our entire experience of the world and how we move within it. And that change will be different for every person. 
 
