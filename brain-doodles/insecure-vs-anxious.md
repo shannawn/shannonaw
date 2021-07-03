@@ -3,9 +3,9 @@ title: insecure vs. anxious
 date: April 10 2021
 ---
 
-I can feel insecure, I can feel anxious, I can feel confident. I can feel all these things because it’s where I choose to focus my attention. If I choose to focus my attention on my abilities, I feel confident. If I choose to focus on my fears, I feel anxious. If I choose to focus on my flaws, I feel insecure. 
+I can feel insecure, I can feel anxious. I can feel confident. I can feel all these things based on where I choose to focus my attention. If I choose to focus my attention on my abilities, I feel confident. If I choose to focus on my fears, I feel anxious. If I choose to focus on my flaws, I feel insecure. 
 
-The part within myself that wants me to reach my potential, that is obsessed with achievements and never fulfilled is based in anxiety. It often focuses on my fears, and fears can be valid, but are often not relevant. These fears can become irrelevant by understanding the likelihood of them happening. 
+The part within myself that wants me to reach my potential - the one obsessed with achievements, the one that's never fulfilled - is based in anxiety. It often focuses on my fears, and fears can be valid, but are often not relevant. These fears can become irrelevant by understanding the likelihood of them happening. 
 
 Often when I think I feel insecure, it is actually a fear of others finding out that I’m not really a [fill in the blank]. I feel like an imposture - like I’m pretending that I don’t have [fill in the blank] flaw in order to deceive others. But my [fill in the blank] flaw is not often real. If we define flaw as something, that requires attention to avoid consequences. I feel scared that others will find out that I’m not as [fill in the blank] as they thought. 
 

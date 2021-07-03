@@ -11,10 +11,12 @@ My bulletproof jacket, my armour, my firefighter is my anger. Because I need to 
 
 So when I wear my anger, I talk loudly - to prove I can take up space and you can hear me. 
 
-Growing up, I didn't want to take up space. I wanted to take up as little space as possible. Any word I said created too much attention and my thoughts didn't deserve that attention - even if it was just to say "here" during the attendance. Sometimes, it made me feel completely invisible and made me question if I was really there at all.
+Growing up, I didn't want to take up space. I wanted to take up as little space as possible. With a speech immpediment, any word I said created too much attention - even if it was just to say "here" during the attendance. It signaled to people that I was different. And I felt like my thoughts didn't deserve that attention. Sometimes, it made me feel completely invisible and made me question if I was really there at all.
 
 When I wear my anger, I list all the ways that I'm right - to prove that my experiences are real and valid.
 
-Whenever I did speak when I was a kid, I worried that people would think I wasn't smart. And with two professors as parents, being smart was an expectation. Those feelings combined with early manipulative relationships where my thoughts and experiences were constantly invalidated made me question if my thoughts and experiences were even real. 
+Whenever I did speak when I was a kid, I worried that people would think I wasn't smart. And with two professors as parents, being smart was an expectation. And at home that was reinforced by making a business presentation to justify your wants and needs.
+
+Those feelings combined with early manipulative relationships where my thoughts and experiences were constantly invalidated made me question if my thoughts and experiences were even real. 
 
 I actively continue to work towards taking up space and trusting myself in knowing my experiences are real and valid. As the progress I make on myself will always come up in my relationship with others - and often, those I love most. And when I do feel triggered, I need to make sure that I'm creating enough space between the stimulus and my response to act in the ways I want to.

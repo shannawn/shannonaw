@@ -1,15 +1,15 @@
 ---
-title: smart
+title: being smart
 date: June 30 2021
 ---
 
 I've always wanted to be smart. And the funny thing is I'm not even sure I know what smart is. I've been striving to reach something that I don't even know what it looks like when I get there. 
 
-What is being smart? Is it remembering random historical facts? Is it convincing people you know a lot? Is it having interesting thoughts? Like what does being smart actually even mean. 
+What is being smart? Is it remembering random historical facts? Is it convincing people you know a lot? Is it having interesting thoughts? What does being smart actually even mean. 
 
 In school, they taught us being smart was a memorization game. To get the A+ on the test, we had to memorize all the answers. As we got older, it become more and more about memorization. We'd have multiple choice questions with games in them. They'd start to try to trick us into selecting the wrong option. So is being smart out-smarting the other side? But what does that even mean? Like I don't know what smart means, so I also don't know what out-smarting someone means.
 
-I think a bunch of people taught us a lot of bullshit about being smart because they didn't know what it meant either. I mean we got so desperate we started coming up with different types of smarts. We call some people book smart and others street smart. Like does it matter which specific smart you are, or can we be a little more generous here and call everyone smart. 
+I think a bunch of people taught us a lot of bullshit about being smart because they didn't know what it meant either. I mean we got so desperate we started coming up with different types of smarts. We call some people book smart and others street smart. Like does it matter which specific smart you are, or can we be a little more generous here and call everyone smart?
 
 As I kid, I remember thinking I was only book smart. I could get good grades but like I honestly believed I wasn't a smart thinker. Like being street smart meant that you could make your way out of tough situations. While, being book smart meant that you could con the school system. 
 
@@ -19,7 +19,7 @@ This has fucked me up more than I'd like to admit.
 
 Having two parents as professors, I needed to be smart. Everyone expected me to be. If someone asked what my parents did, their expectations for me being smart went through the roof. 
 
-At the same time, being girl, people simultaneously think you're all emotions and therefore, not able to be smart. But, people also expect girls to be way more studious than boys. So it's like we're not smart, but we study harder? And when we get older, they then think we're less competent than men after telling us we mature faster. It doesn't make sense. If we are more studious, then we should be smarter and because we mature faster, we should be EVEN smarter than them.
+At the same time, being girl, people think you're all emotions and therefore, not smart. But, people also expect girls to be way more studious than boys. So it's like we're not smart, but we study harder? And when we get older, they then think we're less competent than men after telling us we mature faster. It doesn't make sense. If we are more studious, then we should be smarter and because we mature faster, we should be EVEN smarter than that.
 
 So now, after 25 years, I'm trying to figure out if I am smart, what the fuck smart means to me, and if I care. Maybe I should start to with what smart means, if I care, and then if I meet that definition.
 
@@ -27,7 +27,7 @@ Here we go. Right now, I think being smart means having interesting thoughts. Th
 
 I think to be smart, you always have to be able to explain your thoughts to others.  And those people have to react to them in some way - not eye rolling but engage with it. So maybe being smart needs external validation. 
 
-If someone just had interesting thoughts and never shared them, are they smart? Yes. I think. 
+If someone just had interesting thoughts and never shared them, are they smart? Yes. I think? 
 
 So does smart literally just mean having new thoughts? And don't we all do that probably all the time? Every single fucking human lives in a unique environment with unique challenges and experiences. And yes, of course, there's still the shared human experience. But, odds are everyone has had a new, interesting thought at least once. And if you have one new, interesting thought in your life, is that enough to be smart? Probably. Might depend on the thought - but yeah. 
 
