@@ -1,0 +1,75 @@
+---
+title: true and beautiful life
+date: July 12 2021
+---
+
+"Oh, please don't. Please don't try to help me."
+
+When I read this line in Liz Gilbert's Big Magic, I could hear the exhausation and disinterest. She was talking about her reaction when people tell her that they want to write a book in order to help other people.
+
+More and more in society, we are told to live lives for other people.
+
+Almost as though, if we don't do it for other people, it's not worth doing. But what about just doing something for ourselves?
+
+Who cares if other people get value out of it or not? What if all that matters is how we feel about it?
+
+Because isn't trying to help other people just another cage? It's carving a life that depends on how others recieve your actions, rather than forging a life of my own.
+
+**What would it mean to create a life where we live for ourselves?**
+
+Glennon Doyle describes it as creating a world that is true and beautiful enough for you.
+
+To start, I think I'll just start asking myself "is this true and beautiful enough for me?" in moments of my life. 
+
+And this might be help identify the moments in my life that are "there she goes" vs. "there she is"
+
+"There she goes" moments are the moments when the light inside me fades or dims - everything gets a little darker, and sometimes the light just goes out.
+
+"There she is" moments are the moments where I feel like the truest and most beautiful version of myself. 
+
+**There she is**
+
+For me, "there she is" moments come when I'm listening to music, taking a bath,  reading a book, sipping a mug something hot, dancing in the kitchen, cooking a meal for myself, listening to an album while lying on the floor, conquering the unimaginable in a run, a swim, or a cycle, making the space to explore a thought and write it down... There she is moments usually come from stillness. 
+
+As an anxious person, my brain can become quite loud - too many thoughts, opinions, to-do lists, and there she is happens when things are focused. When I listen to music and I hear every beat, every word. Taking a bath my thoughts center on the amazing sensation of the water on my skin and through my hair. Reading a book hushes my own thoughts as I enter somemone else's. Sipping a mug of something hot slows the world with each sip. Dancing in the kichen and cooking for myself enables me to feel the music as I want as I create a dish just for me...
+
+These are the moments I want more of. These are the moments where I am at the center of my life - where I'm forging my own path to create the most true and beautiful life for me.
+
+**Where is the self?**
+
+Am I recognizing the role I played in creating my life?
+
+It's kinda like walking into a room and seeing a floating kettle pouring tea into a cup, a pan frying an egg, and dishes setting the table. 
+
+It sounds magical. But now imagine, there are actually people moving these objects - someone is pour the tea, frying the egg, and setting the table. The people moving these objects wouldn't feel very appreciated. They might even forget the exist, forget to take up space, forget to be grateful for themselves.
+
+This is sometimes how I feel in my life. I focus on what's going on outside of me, rather than my role in making it happen. 
+
+I'd be grateful for getting into Oxford - while not recognizing my dedication in writing my personal statements, my determination in getting the required documents, and my bravery to try something new.
+
+I'd be grateful for swimming across the lake - while not recognizing my courage to try to swim across the lake, my curiosity to explore my strength, and my strength and determination for ensuring I succeed. 
+
+I want to reintroduce the self into my life. I want my own appreciation and recognition for who I am.
+
+Because I'm not only grateful for the life I have today but who and how it was created. And who continues to imagine a true and beautiful life for me and creates it. 
+
+And because I don't recognize my role in creating the moments I'm grateful for - the moments that lead to "there she is". I also don't recognize my role in creating "there she goes" momments.
+
+**There she goes**
+
+"There she goes" moments are usually moments when I prioritize others' (real or perceieved) expecations over myself. This could just opening to Slack to see if anyone needs anything even if it's after hours. This could be trying to please my parents by compromising my alone time to equal amounts of time with them both. These are moments where I don't recognize my role in creating these scenarios and therefore, forget that I have the power to change them. 
+
+Even if I fundamentally know that everything is changing all the time, sometimes I don't feel that way. I don't feel like this can change. And I forget that anything can change if you put in the effort (or at least most things). But changing things can sounds exhausting and scary. 
+
+And it is exhausting. Change is exhausting - but so is keeping things the same. In these moments, I need to tell myself that "I might feel tired right now, but dealing with the situation will make me energized in the future."
+
+And it's scary. Change means the unknown. Change means new. In these moments, I need to tell myself that "I'm confident in my abilities to tackle any challenges that may appear."
+
+"There she goes" moments are also the moments when I place too high expectations on myself. These expectations come from the idea that today will be the same as tomorrow. As I said earlier, I know this isn't true. But I feel like this is true. And when every day is the new tomorrow, it means each day has very high stakes. 
+
+Vacation is the anti-thesis of this. Vacation is the exception, not the rule. It is liberation. Today, you might read. Tomorrow, you might write. Wednesday, you might do nothing. 
+
+Now, imagine if vacation was every day. Imagine that every day was just a day. Imagine that I trusted myself to know that if I didn't do something today, I could do it another day.
+
+I want this for myself and I'm working on creating it. I can ask myself "do I want to do that?" before taking an action. I can set boundaries with others. I can acknowledge the expiration dates on a challenge I'm experiencing by telling myself ""This a ______ minute/hour/day issue." 
+
