@@ -78,3 +78,33 @@ Vacation is the antithesis of this. Vacation is the exception, not the rule. It 
 Now, imagine if the vacation was every day. Imagine that every day was just a day. Imagine that I trusted myself to know that if I didn't do something today, I could do it another day.
 
 I want this for myself and I'm working on creating it. I can ask myself "do I want to do that?" before taking an action. I can set boundaries with others. I can acknowledge the expiration dates on a challenge I'm experiencing by telling myself "This a ______ minute/hour/day issue." 
+
+**Where's the trust?**
+
+Glennon Doyle talks about control as what happens when there is an absence of trust. I try to control parts of our lives and others. I do this because I worry that if I don't control it, it might not happen. I do this by explicitly trying to control my behaviour. _Write a  gratitude list every night._ _Don't eat that._
+
+I also do this with where I focus my thoughts. _If you don't do it now, you'll never do it._ _Recent graduates have a hard time finding jobs after they graduate._ My thoughts are telling me biased information to control my behaviour.
+
+I try to control my behaviour because I don't trust myself. If I trusted myself, I wouldn't need to control it. 
+
+And this lack of trust necessitates control and with control comes structure and routines and pressure. (The opposite of the liberation that I experience on vacation.)
+
+I would trust myself to be able to find gratitude moments without needing a list, to eat what I needed, to do things on my own timeline, to put in the effort to find a job when the time comes. 
+
+I would trust that I know what's best for me at any given moment. I would have compassion for myself. If I'm not doing something now, that's okay. We have a lot going on now. And we'll do it later. Trust that I will do it. If it's important, then I won't forget. And if I do forget, it wasn't important.
+
+And by trusting myself, I'll be able to love myself. Because trust is a requirement for love. 
+
+**How do I learn to trust myself?**
+
+Let's start with the opposite of control. Let's start by putting biased information towards trust in my thoughts and behaviours. These are thoughts that focus on my abilities - not my fears, and not my inabilities.
+
+They are thoughts like: 
+* "I'm confident in my abilities to tackle any challenges that may appear."
+* "I have tackled harder things before."
+* "I'm choosing love today."
+
+Through building that trust in myself. I'll be able to listen to my body when it tells me it needs rest, food, or exercise. I'll be able to listen to my heart when it needs connection. I'll be able to listen to my mind when it tells me it needs stimulus. 
+
+And I'll be able to trust myself to set boundaries and to follow my dreams.
+
