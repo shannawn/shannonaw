@@ -5,7 +5,7 @@ date: July 12 2021
 
 "Oh, please don't. Please don't try to help me."
 
-When I read this line in Liz Gilbert's Big Magic, I could hear the exhausation and disinterest. She was talking about her reaction when people tell her that they want to write a book in order to help other people.
+When I read this line in Liz Gilbert's Big Magic, I could hear the exhaustion and disinterest. She was talking about her reaction when people tell her that they want to write a book in order to help other people.
 
 More and more in society, we are told to live lives for other people.
 
@@ -13,7 +13,7 @@ Almost as though, if we don't do it for other people, it's not worth doing. But 
 
 Who cares if other people get value out of it or not? What if all that matters is how we feel about it?
 
-Because isn't trying to help other people just another cage we put ourselves? Isn't it just carving a life that depends on how others receive your actions, rather than forging a life of my own?
+Because isn't trying to help other people just another cage we put ourselves in? Isn't it just carving a life that depends on how others receive your actions, rather than forging a life of my own?
 
 **What would it mean to create a life where we live for ourselves?**
 
@@ -33,11 +33,11 @@ For me, "there she is" moments are when I'm listening to music, taking a bath,  
 
 As an anxious person, my brain can be loud - too many thoughts, opinions, to-do lists, and "there she is" hushes all of it - a silence falls over my body and my mind.
 
-They happen when I listen to music and I hear every beat, every word. I'm taking a bath my thoughts center on the amazing sensation of the water on my skin and through my hair. I'm reading a book hushes my own thoughts as I enter somemone else's. I'm sipping a mug of something hot slows the world with each sip. I'm dancing in the kichen and cooking for myself enables me to feel the music as I want as I create a dish just for me...
+They happen when I listen to music and I hear every beat, every word. I'm taking a bath my thoughts center on the amazing sensation of the water on my skin and through my hair. I'm reading a book that hushes my own thoughts as I enter someone else's. I'm sipping a mug of something hot slows the world with each sip. I'm dancing in the kitchen and cooking for myself enables me to feel the music as I want as I create a dish just for me...
 
-These are the moments I want more of. These are the moments where I am at the center of my life - where I'm forging my own path to create the most true and beautiful life for me.
+These are the moments I want more of. These are the moments where I am at the center of my life - where I'm forging my own path to create the truest and beautiful life for me.
 
-**What's happeing in other moments of my life?**
+**What's happening in other moments of my life?**
 
 So if "there she is" moments happen when I feel like my trustest and most beautiful self, what's happening in other moments of my life?
 
@@ -47,13 +47,13 @@ I think the self is invisible in the other moments.
 
 It's kinda like walking into a room and seeing a floating kettle pouring tea into a cup, a pan frying an egg, and dishes setting the table. 
 
-It sounds magical. But now imagine, there are actually people moving these objects - someone is pour the tea, frying the egg, and setting the table. The people moving these objects wouldn't feel very appreciated. They might even forget the exist, forget to take up space, forget to be grateful for themselves.
+It sounds magical. But now imagine, there are actually people moving these objects - someone is pouring the tea, frying the egg, and setting the table. The people moving these objects wouldn't feel very appreciated. They might even forget they exist, forget to take up space, forget to be grateful for themselves.
 
 This is sometimes how I feel in my life. I focus on what's going on outside of me, rather than my role in making it happen. 
 
 I'd be grateful for getting into Oxford - while not recognizing my dedication in writing my personal statements, my determination in getting the required documents, and my bravery to try something new.
 
-I'd be grateful for swimming across the lake - while not recognizing my courage to try to swim across the lake, my curiosity to explore my strength, and my strength and determination for ensuring I succeed. 
+I'd be grateful for swimming across the lake - while not recognizing my courage to try to swim across the lake, my curiosity to explore my strength and my strength and determination for ensuring I succeed. 
 
 I want to reintroduce the self into my life. I want my own appreciation and recognition for who I am.
 
@@ -63,7 +63,7 @@ And because I don't recognize my role in creating the moments I'm grateful for -
 
 **There she goes**
 
-"There she goes" moments happen when I prioritize others' (real or perceieved) expecations over myself. This could just opening to Slack to see if anyone needs anything even if it's after hours. This could be trying to please my parents by compromising my alone time to equal amounts of time with them both. These are moments where I don't recognize my role in creating these scenarios and therefore, forget that I have the power to change them. 
+"There she goes" moments happen when I prioritize others' (real or perceived) expectations over myself. This could just opening Slack to see if anyone needs anything even if it's after hours. This could be trying to please my parents by compromising my alone time to equal amounts of time with them both. These are moments where I don't recognize my role in creating these scenarios and therefore, forget that I have the power to change them. 
 
 Even if I fundamentally know that everything is changing all the time, sometimes I don't feel that way. I don't feel like this can change. And I forget that anything can change if you put in the effort (or at least most things). But changing things can sounds exhausting and scary. 
 
@@ -73,9 +73,8 @@ And it's scary. Change means the unknown. Change means new. In these moments, I 
 
 "There she goes" moments are also the moments when I place too high expectations on myself. These expectations come from the idea that today will be the same as tomorrow. As I said earlier, I know this isn't true. But I feel like this is true. And when every day is the new tomorrow, it means each day has very high stakes. 
 
-Vacation is the anti-thesis of this. Vacation is the exception, not the rule. It is liberation. Today, you might read. Tomorrow, you might write. Wednesday, you might do nothing. 
+Vacation is the antithesis of this. Vacation is the exception, not the rule. It is a disruptor. No routine. No external pressure. It is liberation. Today, you might read. Tomorrow, you might write. Wednesday, you might do nothing. Every single day is a new day. 
 
-Now, imagine if vacation was every day. Imagine that every day was just a day. Imagine that I trusted myself to know that if I didn't do something today, I could do it another day.
+Now, imagine if the vacation was every day. Imagine that every day was just a day. Imagine that I trusted myself to know that if I didn't do something today, I could do it another day.
 
-I want this for myself and I'm working on creating it. I can ask myself "do I want to do that?" before taking an action. I can set boundaries with others. I can acknowledge the expiration dates on a challenge I'm experiencing by telling myself ""This a ______ minute/hour/day issue." 
-
+I want this for myself and I'm working on creating it. I can ask myself "do I want to do that?" before taking an action. I can set boundaries with others. I can acknowledge the expiration dates on a challenge I'm experiencing by telling myself "This a ______ minute/hour/day issue." 
