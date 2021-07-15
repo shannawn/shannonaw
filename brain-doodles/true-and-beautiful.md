@@ -13,31 +13,37 @@ Almost as though, if we don't do it for other people, it's not worth doing. But 
 
 Who cares if other people get value out of it or not? What if all that matters is how we feel about it?
 
-Because isn't trying to help other people just another cage? It's carving a life that depends on how others recieve your actions, rather than forging a life of my own.
+Because isn't trying to help other people just another cage we put ourselves? Isn't it just carving a life that depends on how others receive your actions, rather than forging a life of my own?
 
 **What would it mean to create a life where we live for ourselves?**
 
-Glennon Doyle describes it as creating a world that is true and beautiful enough for you.
+Glennon Doyle describes creating a life for ourselves as creating a world that is true and beautiful enough for us.
 
-To start, I think I'll just start asking myself "is this true and beautiful enough for me?" in moments of my life. 
+I think it's as easy as just starting with asking myself "is this true and beautiful enough for me?" in moments of my life. 
 
-And this might be help identify the moments in my life that are "there she goes" vs. "there she is"
+And this might be helpful in identifying the moments in my life that are "there she goes" vs. "there she is"
 
-"There she goes" moments are the moments when the light inside me fades or dims - everything gets a little darker, and sometimes the light just goes out.
+"There she goes" moments happen when the light inside me fades or dims - everything gets a little darker, and sometimes the light just goes out.
 
-"There she is" moments are the moments where I feel like the truest and most beautiful version of myself. 
+"There she is" moments happen when I feel like the truest and most beautiful version of myself. 
 
 **There she is**
 
-For me, "there she is" moments come when I'm listening to music, taking a bath,  reading a book, sipping a mug something hot, dancing in the kitchen, cooking a meal for myself, listening to an album while lying on the floor, conquering the unimaginable in a run, a swim, or a cycle, making the space to explore a thought and write it down... There she is moments usually come from stillness. 
+For me, "there she is" moments are when I'm listening to music, taking a bath,  reading a book, sipping a mug something hot, dancing in the kitchen, cooking a meal for myself, listening to an album while lying on the floor, conquering the unimaginable in a run, a swim, or a cycle, making the space to explore a thought and write it down... 
 
-As an anxious person, my brain can become quite loud - too many thoughts, opinions, to-do lists, and there she is happens when things are focused. When I listen to music and I hear every beat, every word. Taking a bath my thoughts center on the amazing sensation of the water on my skin and through my hair. Reading a book hushes my own thoughts as I enter somemone else's. Sipping a mug of something hot slows the world with each sip. Dancing in the kichen and cooking for myself enables me to feel the music as I want as I create a dish just for me...
+As an anxious person, my brain can be loud - too many thoughts, opinions, to-do lists, and "there she is" hushes all of it - a silence falls over my body and my mind.
+
+They happen when I listen to music and I hear every beat, every word. I'm taking a bath my thoughts center on the amazing sensation of the water on my skin and through my hair. I'm reading a book hushes my own thoughts as I enter somemone else's. I'm sipping a mug of something hot slows the world with each sip. I'm dancing in the kichen and cooking for myself enables me to feel the music as I want as I create a dish just for me...
 
 These are the moments I want more of. These are the moments where I am at the center of my life - where I'm forging my own path to create the most true and beautiful life for me.
 
-**Where is the self?**
+**What's happeing in other moments of my life?**
 
-Am I recognizing the role I played in creating my life?
+So if "there she is" moments happen when I feel like my trustest and most beautiful self, what's happening in other moments of my life?
+
+Where is the self? Where is the truest and most beautiful self?
+
+I think the self is invisible in the other moments. 
 
 It's kinda like walking into a room and seeing a floating kettle pouring tea into a cup, a pan frying an egg, and dishes setting the table. 
 
@@ -53,11 +59,11 @@ I want to reintroduce the self into my life. I want my own appreciation and reco
 
 Because I'm not only grateful for the life I have today but who and how it was created. And who continues to imagine a true and beautiful life for me and creates it. 
 
-And because I don't recognize my role in creating the moments I'm grateful for - the moments that lead to "there she is". I also don't recognize my role in creating "there she goes" momments.
+And because I don't recognize my role in creating the moments I'm grateful for - the moments that lead to "there she is". I also don't recognize my role in creating "there she goes" moments.
 
 **There she goes**
 
-"There she goes" moments are usually moments when I prioritize others' (real or perceieved) expecations over myself. This could just opening to Slack to see if anyone needs anything even if it's after hours. This could be trying to please my parents by compromising my alone time to equal amounts of time with them both. These are moments where I don't recognize my role in creating these scenarios and therefore, forget that I have the power to change them. 
+"There she goes" moments happen when I prioritize others' (real or perceieved) expecations over myself. This could just opening to Slack to see if anyone needs anything even if it's after hours. This could be trying to please my parents by compromising my alone time to equal amounts of time with them both. These are moments where I don't recognize my role in creating these scenarios and therefore, forget that I have the power to change them. 
 
 Even if I fundamentally know that everything is changing all the time, sometimes I don't feel that way. I don't feel like this can change. And I forget that anything can change if you put in the effort (or at least most things). But changing things can sounds exhausting and scary. 
 
