@@ -1,5 +1,5 @@
 ---
-title: true and beautiful life
+title: "wip: true and beautiful life"
 date: July 12 2021
 ---
 
