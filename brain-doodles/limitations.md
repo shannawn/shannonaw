@@ -27,12 +27,12 @@ The Shy Pessimist's biggest fear is that I'll be hurt. It believes that it’s b
 
 Both of these selves render me to a state where I'm unmotivated and ready to give up. They don't help me feel like I can reach my potential or that I can take up space. Because they're not based in hope. They're based in fear and remind me of my limitations.
 
-And the problem with fear is that when it's not listened to, it only gets louder.
+And the problem with fear is that when it's not listened to, it only gets louder. And that fear can tell us helpful information about who we are, what we want, and what boundaries we need to create.
 
 So, how can I make space to make my fears feel heard without having them set my limitations?
 
 1. Make space for fear and limitations to be heard.
-2. Validate their experiences. 
+2. Validate their experience. 
 3. Show them hope and possibilities.
 
 I curl up on the couch with my fearful selves. I make them a warm cup of team and give them a blanket. 
