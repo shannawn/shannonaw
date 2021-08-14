@@ -72,7 +72,7 @@ She wins.
 
 From the release of tension, you'll fall forward.
 
-_Wings drumming. She makes her next move._ 
+_Wings drumming. You'll makes your next move._ 
 
 I can't wait for you to get here. We're on the precipice of something incredible. And that something is the life we're building and who we're becoming.
 
