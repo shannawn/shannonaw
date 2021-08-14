@@ -8,21 +8,30 @@ date: August 11 2021
 
 Good morning love,
 
-You have no idea what is about to come. No one does. And even when it's here, you won't know how to describe it. The words we have today won't capture the emotions felt, pain suffered, and lives lost. 
+You have no idea what is about to come. No one does. And even when it's here, you won't know how to describe it. 
+
+The words we have today won't capture the emotions felt, pain suffered, and lives lost. 
 
 All this pain, heartache, and injustice will lead to a more true and beautiful life for yourself. You'll grow in ways you'll never have imagined - in ways that I still find unbelievable. 
 
 You'll experience so much hurt that you won't know can bear it. The muscles around your heart will feel so tight that if you inhale, they'll snap like an elastic stretched too far. And with all that you live through, you'll feel like one of the lucky ones.
 
-Life will move so fast. Like a hummingbird's wings, life will become a blur. You won't be able see it or process it. But you'll know it's moving from the soft hum of the hummingbird's wings, and logic. The hummingbird is flying in mid-air. The days will drum forward. And like a hummingbird, you'll only know how quickly it's moving when she pauses before she makes her next move. It's only for one second and in that second, you'll see her.
+Life will move so fast. 
 
-For two weeks, the office will close. They'll introduce a quarantine. You didn't want to be stuck in your shoebox in the sky downtown for two weeks. Staying with Mum and Dad will help make up for those times you didn't visit. It's been a long time since you lived with them. 
+Like a hummingbird's wings, life will become a blur. You won't be able see it or process it. But you'll know it's moving from the soft hum of the hummingbird's wings, and logic. The hummingbird is flying in mid-air. The days will drum forward. And like a hummingbird, you'll only know how quickly it's moving when she pauses before she makes her next move. It's only for one second and in that second, you'll see her.
 
-The last time you did, you left 10 months early to move out on your own. You wanted to move out with every fibre of your being. You hovered the pen over the signature of a lease that required you to take out the landlord's and the other tenant's garbage. This time you'll have the compulsion to do the same. 
+
+For two weeks, the office will close. They'll introduce a quarantine. You won't want to be stuck in your shoebox in the sky downtown. Staying with Mum and Dad will help make up for those times you didn't visit. It's been a long time since you lived with them. You decide to stay them for the two weeks.
+
+The last time you lived with them, you left 10 months early to move out on your own. You wanted to move out with every fibre of your being. 
+
+You hovered the pen over the signature line of a lease that required you to take out the landlord's and the other tenant's garbage. This time you'll have the compulsion to do the same. 
 
 In every day, every hour, every minute of those two weeks, the tension in the house will build. The house will feel like an ice castle. The sharp, cold wind will whistle through the empty halls, as your parents share icy looks, as they pretend the other one doesn't exist. 
 
-Work will become emptier. New customers will plummet. Bank accounts will drop. You'll be told that you need to let go of more than half of your team. You'll go from a team of a six to two - you and Roman. You'll cry in each call. It will be so hard. 
+Work will become emptier. New customers will plummet. Zeros at the end of bank accounts will drop if things continue. 
+
+You'll be told that you need to let go of more than half of your team. You'll go from a team of a six to two - you and Roman. You'll cry in each call. It will be so hard. 
 
 _They were doing great. We were doing great._
 
@@ -38,13 +47,13 @@ _Wings drumming. She makes her next move._
 
 After never driving more than 100km in your 24 years of living, you'll drive from Toronto to New York. You'll move in with a boy. A boy you've known for almost ten years. The one that makes your laugh heard by the neighbours, that stretches your smile so wide you think it might fall off your face, that makes you feel as precious as a princess and as neglected as a shrivelled, dying houseplant in the corner.
 
-For two months, you'll spend day and night in a palace in the Four Seasons. The white, sky-high walls will glow with warm sunlight. The sunlight will spread to the each corner of the room every morning. The New York city lights and the Empire State building will become the evening entertainment.
+For two months, you'll spend day and night in a palace the Four Seasons. The white, sky-high walls will glow with warm sunlight. The sunlight will spread to the each corner of the room every morning. The New York city lights and the Empire State building will become the evening entertainment.
 
-To you, it's gorgeous. For him, he finds the imperfections like a hawk hunting its' prey. He finds the spec of paint on the window sill, the molecule of stone missing from the countertop, the tiniest dent in the hardwood flooring. He bought the palace a month before. He moved in the day before you arrived. His dreams for his new home are already evaporating. The palace will become a display protected by glass. _No touching._
+To you, it's gorgeous. For him, it's far from it. He finds the imperfections like a hawk hunting its' prey - the spec of paint on the window sill, the molecule of stone missing from the countertop, the tiniest dent in the hardwood flooring. He bought the palace a month before. He moved in the day before you arrived. Yet, his dreams for his new home are already evaporating. The palace becomes a display protected by glass. _No touching._
 
-Footsteps are too loud - HIIT workouts are out of the question. Cooking will dirty a kitchen this clean. Washing clothes in the laundry machines deprecates their value as fast as driving a new car off the lot. 
+Footsteps are too loud - workouts are out of the question. Cooking will dirty a kitchen this clean. Washing clothes in the laundry machines deprecates their value as fast as driving a new car off the lot. 
 
-You'll whisper on your calls from the bathroom floor, while his voice projects through the entire room and into your calls . He'll never offer to trade - not even for one call, not even when you ask. 
+You'll take your calls from the bathroom floor. While you get back pain for sitting on the floor, he'll sit in his luxious comfy arm chair. Whil you whisper, his voice projects through the entire room and into your calls. He'll never offer to trade - not even for one call, not even when you ask. 
 
 He won't let you go outside alone. He doesn't trust you to be safe. His thoughts soon become yours.
 
