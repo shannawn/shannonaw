@@ -14,7 +14,7 @@ The words we have today won't capture the emotions felt, pain suffered, and live
 
 All this pain, heartache, and injustice will lead to a more true and beautiful life for yourself. You'll grow in ways you'll never have imagined - in ways that I still find unbelievable. 
 
-You'll experience so much hurt that you won't know if youo can bear it. The muscles around your heart will feel so tight that if you inhale, they'll snap like an elastic stretched too far. And with all that you live through, you'll feel like one of the lucky ones.
+You'll experience so much hurt that you won't know if you can bear it. The muscles around your heart will feel so tight that if you inhale, they'll snap like an elastic stretched too far. And with all that you live through, you'll feel like one of the lucky ones.
 
 Life will move so fast. 
 
