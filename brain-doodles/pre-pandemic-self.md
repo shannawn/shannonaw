@@ -24,9 +24,13 @@ In every day, every hour, every minute of those two weeks, the tension in the ho
 
 Work will become emptier. New customers will plummet. Bank accounts will drop. You'll be told that you need to let go of more than half of your team. You'll go from a team of a six to two - you and Roman. You'll cry in each call. It will be so hard. They were doing great. We were doing great. 
 
-_It should've been you. Peter can learn anything. Leo is more intentional than I could ever be._ You try to make yourself feel the pain they must've felt. No amount of time on the treadmill can make you feel the pain they must've felt. Not even when the belt is whipping so fast around the machine that it sways from side to side with each stride. No matter how fast or far you go - you can't fast enough or far enough. After many hours and kilometres, you'll learn that your pain doesn't take away theirs.
+_It should've been you. Peter can learn anything. Leo is more intentional than I could ever be._ 
 
-Everything about your job changes. You won't even be able to remember the days where you would skip from your desk to your next meeting - not because you were late, but excited. Each day will feel like swimming up from the bottom of the ocean with an 1,000 pound weight tied to your feet. Some days, you might be able to catch a breathe above the water. But it'll pull you back down. It'll be like this for six weeks.
+You try to make yourself feel the pain they must've felt. No amount of time on the treadmill can make you feel the pain they must've felt. Not even when the belt is whipping so fast around the machine that it sways from side to side with each stride. No matter how fast or far you go - you can't fast enough or far enough. After many hours and kilometres, you'll learn that your pain doesn't take away theirs.
+
+Everything about your job changes. 
+
+You won't remember the days where you would skip from your desk to your next meeting - not because you were late, but excited. Each day will feel like swimming up from the bottom of the ocean with an 1,000 pound weight tied to your feet. Some days, you might be able to catch a breathe above the water. But it'll pull you back down. It'll be like this for six weeks.
 
 _Wings drumming. She makes her next move._ 
 
