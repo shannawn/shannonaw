@@ -22,7 +22,9 @@ The last time you did, you left 10 months early to move out on your own. You wan
 
 In every day, every hour, every minute of those two weeks, the tension in the house will build. The house will feel like an ice castle. The sharp, cold wind will whistle through the empty halls, as your parents share icy looks, as they pretend the other one doesn't exist. 
 
-Work will become emptier. New customers will plummet. Bank accounts will drop. You'll be told that you need to let go of more than half of your team. You'll go from a team of a six to two - you and Roman. You'll cry in each call. It will be so hard. They were doing great. We were doing great. 
+Work will become emptier. New customers will plummet. Bank accounts will drop. You'll be told that you need to let go of more than half of your team. You'll go from a team of a six to two - you and Roman. You'll cry in each call. It will be so hard. 
+
+_They were doing great. We were doing great._
 
 _It should've been you. Peter can learn anything. Leo is more intentional than I could ever be._ 
 
