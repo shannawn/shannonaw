@@ -37,7 +37,7 @@ _They were doing great. We were doing great._
 
 _It should've been you. Peter can learn anything. Leo is more intentional than I could ever be._ 
 
-You try to make yourself feel the pain they must've felt. No amount of time on the treadmill can make you feel the pain they must've felt. Not even when the belt is whipping so fast around the machine that it sways from side to side with each stride. No matter how fast or far you go - you can't fast enough or far enough. After many hours and kilometres, you'll learn that your pain doesn't take away theirs.
+You try to make yourself feel the pain they must've felt. No amount of time on the treadmill. Not when the belt is whipping so fast around the machine that it sways from side to side with each stride. No matter how fast or far you go - you can't fast enough or far enough. After many hours and kilometres, you'll learn that your pain doesn't take away theirs.
 
 Everything about your job changes. 
 
@@ -53,7 +53,7 @@ To you, it's gorgeous. For him, it's far from it. He finds the imperfections lik
 
 Footsteps are too loud - workouts are out of the question. Cooking will dirty a kitchen this clean. Washing clothes in the laundry machines deprecates their value as fast as driving a new car off the lot. 
 
-You'll take your calls from the bathroom floor. While you get back pain for sitting on the floor, he'll sit in his luxious comfy arm chair. Whil you whisper, his voice projects through the entire room and into your calls. He'll never offer to trade - not even for one call, not even when you ask. 
+You'll take your calls from the bathroom floor. While you get back pain for sitting on the floor, he'll sit in his luxious comfy arm chair. While you whisper, his voice projects through the entire room and into your calls. He'll never offer to trade - not even for one call, not even when you ask. 
 
 He won't let you go outside alone. He doesn't trust you to be safe. His thoughts soon become yours.
 
@@ -65,7 +65,7 @@ He'll be the giant growing, and as he grows, you shrink. You'll make yourself so
 
 You'll realize that you've been protecting him. You took his behaviour as your flaws. You didn't want people you loved, the people who respected you to know the secrets behind these doors. 
 
-You abandoned yourself rather than the apartment or the relationship. You stayed for everyone but you. And I know you feel embrassed and ashamed as you read that. And I get that, because I did the same thing. But that'll change because you make it change. 
+You abandoned yourself rather than the apartment or the relationship. You stayed for everyone but you. And I know you feel embarassed and ashamed as you read that. And I get that, because I did the same thing. But that'll change because you make it change. 
 
 But you are full person. And you deserve to live in places where you can be your whole goddamn self. So you'll leave. 
 
