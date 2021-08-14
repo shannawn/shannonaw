@@ -41,36 +41,37 @@ He won't let you go outside alone. He doesn't trust you to be safe. His thoughts
 
 The bathtub will be the only space for you to exist as you are. And still, you'll muffle your cries in the bathtub. 
 
-When you're with him, you hate yourself when you're with him. The worst parts of you emerge from shadows and into the spotlight. They thrive. The self hatred becomes rampant. You'll want to disappear. You'll try to make your existence less and less noticeable to please him. You'll try to take up less space. He'll be the giant growing, and as he grows, you shrink. You make yourself so small that you stop getting your period. You'll tiptoe yourself out of existence. But even then, there's still tiny footprints. You'll always exist too much for him.
+When you're with him, you hate yourself when you're with him. The worst parts of you emerge from shadows and into the spotlight. They thrive. The self hatred becomes rampant. You'll want to disappear. You'll try to make your existence less noticeable. You'll try to take up less space. 
+
+He'll be the giant growing, and as he grows, you shrink. You'll make yourself so small that you stop getting your period. You'll tiptoe yourself out of existence. But tiptoes still leave tiny footprints. You'll always exist too much for him.
 
 You'll realize that you've been protecting him. You took his behaviour as your flaws. You didn't want people you loved, the people who respected you to know the secrets behind these doors. 
 
-You abandoned yourself rather than the apartment or the relationship. You stayed for everyone but you. And I know you feel embrasses and ashamed as you read that. And I get that, because I did the same thing.  But that'll  change because you make it change. 
+You abandoned yourself rather than the apartment or the relationship. You stayed for everyone but you. And I know you feel embrasses and ashamed as you read that. And I get that, because I did the same thing. But that'll change because you make it change. 
 
 But you are full person. And you deserve to live in places where you can be your whole goddamn self. So you'll leave. 
 
 _Wings drumming. She pauses before her next move._ 
 
-In your shoebox in the sky in Toronto, you'll realize how much of yourself was muted. Blue skies looked grey in New York. Two weeks in your 500 sq ft apartment in downtown Toronto feel like the most magestic sunset. Even in quarantine, even in a pandemic. You'll find yourself by dancing in the kitchen, creating a delicious meal, listening to R&B while watching the night sky over Queen St West.
+In your shoebox in the sky in Toronto, you'll realize how much of yourself was muted. Blue skies looked grey in New York. Two weeks in your 500 sq ft apartment in downtown Toronto feel like the most magestic sunset. Even in quarantine, even in a pandemic.
 
-It's like someone has been playing tug of war with your life. And it's comfort versus growth. Comfort has been winning. Growth is starting to get her footing. She's digging her heels into the ground and pulling harder. Her hands are blisters from the twisting of the rope. She's going to win.
+Someone had been playing tug of war with your life. Comfort versus growth. After months of comfort winning, the rope is changing. Digging her heels into the ground, growth is starting to get her footing. Her hands are blisters from the twisting of the rope. 
 
- From the release of tension | the momentum, you fall forward. The future is now yours. What do you want? That's a big question. It's hard to answer, so focus on what you don't. You don't want to live in Toronto anymore. Born and raised here is enough. You don't want to focus on breadth of impact but depth - helping people in ways that fundamentally change lives. Rather than helping families find care for their kids, you want to make people have the control to choose if and when they want them. And if the pandemic will teach you anything, it's that health is so pivotal. It almost sounds banal because it is. But this experience will make you feel it and bask in its righteousness. You'll change your course from social anthropology to medical anthropology. In the spare moments of your days for the net five months, you'll be crafting a personal statement and researching your next step. You'll apply to the top UK grad schools and get into them all. 
+She's going to win.
 
-During those two weeks, you'll decide to apply grad school in the UK even though it's only a week away from the deadline and you'll give your landlord's notice. You're ready to move on from Toronto. Born and raised in the city - it's time to go somewhere new. But where?
+She wins. 
 
-You end up being accepted into the grad school you applied for. You'll decide to defer. You're not sure what to study, you're not super excited about the school, and it's COVID. And you're not going to settle again.
+From the release of tension, you'll fall forward.
 
-Instead, you'll ask your only nomadic friend to go travelling with you across the country. In one of the 28 different places you've called home, you'll fall in love.
+_Wings drumming. She pauses before her next move._ 
 
-On the road, your parents will tell they're separating. Although it's not shocking, it still hurts. It means there is a unknown path forward. The pain that I was so comfortable with will be replaced with new pain.
+During those two weeks, you'll give your landlords notice. You're ready to move on from Toronto.  Born and raised in the city - it's time to go somewhere new. But where? 
+
+_Wings drumming. She pauses before her next move._ 
+
+During those same two weeks, you'll decide to change your career. Rather than helping families find care for their kids, you want to make people have the control to choose if and when they want them. And if the pandemic will teach you anything, it's that health is so pivotal. It sounds banal because it is. But this experience will make you feel its righteousness viscerally. 
+
+_Wings drumming. She pauses before her next move._ 
 
 
-
-- kourosh and nyc, metaphors: 
-- parents divorce
-- hummingbirds right in front of you until it's gone
-- nanny lane shrinking the team and growing again, metaphors: uncomfortable pruning
-- travelling and nick
-- grad school
-
+I can't wait for you to get here. I am so incredibly proud of who we're becoming and the life we're building. We're doing things you can't even dream of. And that's because of you. Please be kind to yourself 
