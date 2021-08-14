@@ -14,24 +14,24 @@ The words we have today won't capture the emotions felt, pain suffered, and live
 
 All this pain, heartache, and injustice will lead to a more true and beautiful life for yourself. You'll grow in ways you'll never have imagined - in ways that I still find unbelievable. 
 
-You'll experience so much hurt that you won't know can bear it. The muscles around your heart will feel so tight that if you inhale, they'll snap like an elastic stretched too far. And with all that you live through, you'll feel like one of the lucky ones.
+You'll experience so much hurt that you won't know if youo can bear it. The muscles around your heart will feel so tight that if you inhale, they'll snap like an elastic stretched too far. And with all that you live through, you'll feel like one of the lucky ones.
 
 Life will move so fast. 
 
-Like a hummingbird's wings, life will become a blur. You won't be able see it or process it. But you'll know it's moving from the soft hum of the hummingbird's wings, and logic. The hummingbird is flying in mid-air. The days will drum forward. And like a hummingbird, you'll only know how quickly it's moving when she pauses before she makes her next move. It's only for one second and in that second, you'll see her.
+Like a hummingbird's wings, life will become a blur. You won't be able to see it or process it. But you'll know it's moving from the soft hum of the hummingbird's wings, and logic. The hummingbird is flying in mid-air. The days will drum forward. And like a hummingbird, you'll only know how quickly it's moving when she pauses before she makes her next move. It's only for one second and in that second, you'll see her.
 
 
-For two weeks, the office will close. They'll introduce a quarantine. You won't want to be stuck in your shoebox in the sky downtown. Staying with Mum and Dad will help make up for those times you didn't visit. It's been a long time since you lived with them. You decide to stay them for the two weeks.
+For two weeks, the office will close. They'll introduce a quarantine. You won't want to be stuck in your shoebox in the sky downtown. Staying with Mum and Dad will help make up for those times you didn't visit. It's been a long time since you lived with them. You decide to stay with them for two weeks.
 
 The last time you lived with them, you left 10 months early to move out on your own. You wanted to move out with every fibre of your being. 
 
 You hovered the pen over the signature line of a lease that required you to take out the landlord's and the other tenant's garbage. This time you'll have the compulsion to do the same. 
 
-In every day, every hour, every minute of those two weeks, the tension in the house will build. The house will feel like an ice castle. The sharp, cold wind will whistle through the empty halls, as your parents share icy looks, as they pretend the other one doesn't exist. 
+Every day, every hour, every minute of those two weeks, the tension in the house will build. The house will feel like an ice castle. The sharp, cold wind will whistle through the empty halls, as your parents share icy looks, as they pretend the other one doesn't exist. 
 
 Work will become emptier. New customers will plummet. Zeros at the end of bank accounts will drop if things continue. 
 
-You'll be told that you need to let go of more than half of your team. You'll go from a team of a six to two - you and Roman. You'll cry in each call. It will be so hard. 
+You'll be told that you need to let go of more than half of your team. You'll go from a team of six to two - you and Roman. You'll cry in each call. It will be so hard. 
 
 _They were doing great. We were doing great._
 
@@ -47,13 +47,13 @@ _Wings drumming. She makes her next move._
 
 After never driving more than 100km in your 24 years of living, you'll drive from Toronto to New York. You'll move in with a boy. A boy you've known for almost ten years. The one that makes your laugh heard by the neighbours, that stretches your smile so wide you think it might fall off your face, that makes you feel as precious as a princess and as neglected as a shrivelled, dying houseplant in the corner.
 
-For two months, you'll spend day and night in a palace the Four Seasons. The white, sky-high walls will glow with warm sunlight. The sunlight will spread to the each corner of the room every morning. The New York city lights and the Empire State building will become the evening entertainment.
+For two months, you'll spend day and night in a palace called the Four Seasons. The white, sky-high walls will glow with warm sunlight. The sunlight will spread to each corner of the room every morning. The New York city lights and the Empire State building will become the evening entertainment.
 
-To you, it's gorgeous. For him, it's far from it. He finds the imperfections like a hawk hunting its' prey - the spec of paint on the window sill, the molecule of stone missing from the countertop, the tiniest dent in the hardwood flooring. He bought the palace a month before. He moved in the day before you arrived. Yet, his dreams for his new home are already evaporating. The palace becomes a display protected by glass. _No touching._
+To you, it's gorgeous. For him, it's far from it. He finds the imperfections like a hawk hunting its prey - the spec of paint on the window sill, the molecule of stone missing from the countertop, the tiniest dent in the hardwood flooring. He bought the palace a month before. He moved in the day before you arrived. Yet, his dreams for his new home are already evaporating. The palace becomes a display protected by glass. _No touching._
 
 Footsteps are too loud - workouts are out of the question. Cooking will dirty a kitchen this clean. Washing clothes in the laundry machines deprecates their value as fast as driving a new car off the lot. 
 
-You'll take your calls from the bathroom floor. While you get back pain for sitting on the floor, he'll sit in his luxious comfy arm chair. While you whisper, his voice projects through the entire room and into your calls. He'll never offer to trade - not even for one call, not even when you ask. 
+You'll take your calls from the bathroom floor. While you get back pain from sitting on the floor, he'll sit in his luxurious comfy armchair. While you whisper, his voice projects through the entire room and into your calls. He'll never offer to trade - not even for one call, not even when you ask. 
 
 He won't let you go outside alone. He doesn't trust you to be safe. His thoughts soon become yours.
 
@@ -65,9 +65,9 @@ He'll be the giant growing, and as he grows, you shrink. You'll make yourself so
 
 You'll realize that you've been protecting him. You took his behaviour as your flaws. You didn't want people you loved, the people who respected you to know the secrets behind these doors. 
 
-You abandoned yourself rather than the apartment or the relationship. You stayed for everyone but you. And I know you feel embarassed and ashamed as you read that. And I get that, because I did the same thing. But that'll change because you make it change. 
+You abandoned yourself rather than the apartment or the relationship. You stayed for everyone but you. And I know you feel embarrassed and ashamed as you read that. And I get that, because I did the same thing. But that'll change because you make it change. 
 
-But you are full person. And you deserve to live in places where you can be your whole goddamn self. So you'll leave. 
+But you are a full person. And you deserve to live in places where you can be your whole goddamn self. So you'll leave. 
 
 _Wings drumming. She makes her next move._ 
 
@@ -81,7 +81,7 @@ She wins.
 
 From the release of tension, you'll fall forward.
 
-_Wings drumming. You'll makes your next move._ 
+_Wings drumming. You'll make your next move._ 
 
 I can't wait for you to get here. We're on the precipice of something incredible. And that something is the life we're building and who we're becoming.
 
@@ -90,3 +90,4 @@ I am so incredibly proud of us. And that's because of you.
 Always, 
 
 Shannon
+
