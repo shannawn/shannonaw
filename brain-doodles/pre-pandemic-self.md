@@ -40,7 +40,7 @@ You're told that you need to let go of more than half of your team. A team of si
 
 _They were doing great. We were doing great._
 
-_It should've been you. Peter can learn anything. He can multi-task like no one else. He always puts the team first. Leo is more intentional than I could ever be. He is the best holistic thinker._
+_It should've been me. Peter can learn anything. He can multi-task like no one else. He always puts the team first. Leo is more intentional than I could ever be. He is the best holistic thinker._
 
 You try to make yourself feel the pain they must've felt. No amount of time on the treadmill. Not when the belt is whipping so fast around the machine that it sways from side to side with each stride. No matter how fast or far you go - you can't fast enough or far enough. After many hours and kilometres, you learn that your pain doesn't take away theirs.
 
