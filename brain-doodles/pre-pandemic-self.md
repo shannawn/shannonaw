@@ -8,70 +8,79 @@ date: August 11 2021
 
 Good morning love,
 
-You have no idea what is about to come. No one does. And even when it's here, you won't know how to describe it. 
+You have no idea what is about to come. 
 
-The words we have today won't capture the emotions felt, pain suffered, and lives lost. 
+No one does. 
 
-All this pain, heartache, and injustice will lead to a more true and beautiful life for yourself. You'll grow in ways you'll never have imagined - in ways that I still find unbelievable. 
+I don’t even know how to describe it in words. The emotions felt. Pain suffered. Lives lost.
 
-You'll experience so much hurt that you won't know if you can bear it. The muscles around your heart will feel so tight that if you inhale, they'll snap like an elastic stretched too far. And with all that you live through, you'll feel like one of the lucky ones.
+You grow in ways you never imagined - in ways that I still find unbelievable. 
 
-Life will move so fast. 
+You won’t know if you can bear it. The muscles around your heart feel so tight that when you inhale, they could snap. 
 
-Like a hummingbird's wings, life will become a blur. You won't be able to see it or process it. But you'll know it's moving from the soft hum of the hummingbird's wings, and logic. The hummingbird is flying in mid-air. The days will drum forward. And like a hummingbird, you'll only know how quickly it's moving when she pauses before she makes her next move. It's only for one second and in that second, you'll see her.
+And you’re one of the lucky ones.
 
+Life will become a blur. Like watching a hummingbird’s wings in flight. You can’t see it or process it. You know she’s moving from the soft drum of her wings. 
 
-For two weeks, the office will close. They'll introduce a quarantine. You won't want to be stuck in your shoebox in the sky downtown. Staying with Mum and Dad will help make up for those times you didn't visit. It's been a long time since you lived with them. You decide to stay with them for two weeks.
+She only pauses before making her next move. It's only for one second. You see her.
+
+For two weeks, the office will close. They introduce a quarantine. You don’t want to be stuck in your shoebox in the sky downtown. Staying with Mum and Dad helps make up for those times you didn't visit. It's been a long time since you lived with them. You decide to stay with them for two weeks. 
+
+_It’s like a vacation._ It’s anything but a vacation. 
 
 The last time you lived with them, you left 10 months early to move out on your own. You wanted to move out with every fibre of your being. 
 
-You hovered the pen over the signature line of a lease that required you to take out the landlord's and the other tenant's garbage. This time you'll have the compulsion to do the same. 
+You hovered the pen over the signature line of a lease that required you to take out the landlord's and the other tenant's garbage. This time you the same compulsion.
 
-Every day, every hour, every minute of those two weeks, the tension in the house will build. The house will feel like an ice castle. The sharp, cold wind will whistle through the empty halls, as your parents share icy looks, as they pretend the other one doesn't exist. 
+Every day, every hour, every minute of those two weeks, the tension will build. The house feels like an ice castle. The sharp, cold wind whistling through the empty halls, as your parents share icy looks, as they pretend the other one doesn't exist. 
 
-Work will become emptier. New customers will plummet. Zeros at the end of bank accounts will drop if things continue. 
+Work becomes emptier. New customers plummet. Zeros drop on account balances.
 
-You'll be told that you need to let go of more than half of your team. You'll go from a team of six to two - you and Roman. You'll cry in each call. It will be so hard. 
+You're told that you need to let go of more than half of your team. A team of six down to two - you and Roman. You cry in each call. 
 
 _They were doing great. We were doing great._
 
-_It should've been you. Peter can learn anything. Leo is more intentional than I could ever be._ 
+_It should've been you. Peter can learn anything. He can multi-task like no one else. He always puts the team first. Leo is more intentional than I could ever be. He is the best holistic thinker._
 
-You try to make yourself feel the pain they must've felt. No amount of time on the treadmill. Not when the belt is whipping so fast around the machine that it sways from side to side with each stride. No matter how fast or far you go - you can't fast enough or far enough. After many hours and kilometres, you'll learn that your pain doesn't take away theirs.
+You try to make yourself feel the pain they must've felt. No amount of time on the treadmill. Not when the belt is whipping so fast around the machine that it sways from side to side with each stride. No matter how fast or far you go - you can't fast enough or far enough. After many hours and kilometres, you learn that your pain doesn't take away theirs.
 
 Everything about your job changes. 
 
-You won't remember the days where you would skip from your desk to your next meeting - not because you were late, but excited. Each day will feel like swimming up from the bottom of the ocean with an 1,000 pound weight tied to your feet. Some days, you might be able to catch a breathe above the water. But it'll pull you back down. It'll be like this for six weeks.
+No more office chatter and coffee machine gurgles. No more walking meetings down Queen St. No more skipping from your desk to your next meeting - not because you were late, but excited. 
 
-_Wings drumming. She makes her next move._ 
+Each day will feel like swimming up from the bottom of the ocean with weight tied to your feet. Some days, you might be able to catch a breath above the water. But it pulls you back down. Welcome to the next six weeks.
 
-After never driving more than 100km in your 24 years of living, you'll drive from Toronto to New York. You'll move in with a boy. A boy you've known for almost ten years. The one that makes your laugh heard by the neighbours, that stretches your smile so wide you think it might fall off your face, that makes you feel as precious as a princess and as neglected as a shrivelled, dying houseplant in the corner.
+*Wings drumming. She makes her next move.*
 
-For two months, you'll spend day and night in a palace called the Four Seasons. The white, sky-high walls will glow with warm sunlight. The sunlight will spread to each corner of the room every morning. The New York city lights and the Empire State building will become the evening entertainment.
+After never driving more than 100km in your 24 years of living, you drive from Toronto to New York. You move in with a boy. A boy you've known for almost ten years. The one that makes your laugh heard by the neighbours, that stretches your smile so wide that it might fall off your face, that makes you feel as precious as a princess and as shrivelled as the dying houseplant in the corner.
 
-To you, it's gorgeous. For him, it's far from it. He finds the imperfections like a hawk hunting its prey - the spec of paint on the window sill, the molecule of stone missing from the countertop, the tiniest dent in the hardwood flooring. He bought the palace a month before. He moved in the day before you arrived. Yet, his dreams for his new home are already evaporating. The palace becomes a display protected by glass. _No touching._
+For two months, you spend day and night in a palace called the Four Seasons. The white, sky-high walls will glow with warm sunlight. The sunlight will spread to each corner of the room every morning. The New York city lights and the Empire State building will become the evening entertainment.
 
-Footsteps are too loud - workouts are out of the question. Cooking will dirty a kitchen this clean. Washing clothes in the laundry machines deprecates their value as fast as driving a new car off the lot. 
+To you, it's gorgeous. 
 
-You'll take your calls from the bathroom floor. While you get back pain from sitting on the floor, he'll sit in his luxurious comfy armchair. While you whisper, his voice projects through the entire room and into your calls. He'll never offer to trade - not even for one call, not even when you ask. 
+For him, it's far from it. He finds the imperfections like a hawk hunting its prey - the spec of paint on the window sill, the molecule of stone missing from the countertop, the tiniest dent in the hardwood flooring. He bought the palace a month before. He moved in the day before you arrived. Yet, his dreams for his new home are already evaporating. The palace becomes a display protected by glass. _No touching._
 
-He won't let you go outside alone. He doesn't trust you to be safe. His thoughts soon become yours.
+Footsteps are too loud - workouts are out of the question. Cooking dirties a kitchen this clean. Washing clothes in the laundry machines deprecates their value as fast as driving a new car off the lot. 
 
-The bathtub will be the only space for you to exist as you are. And still, you'll muffle your cries in the bathtub. 
+You take your calls from the bathroom floor. While you get back pain from sitting on the floor, he'll sit in his luxurious comfy armchair. While you whisper, his voice projects through the entire room and into your calls. He never offers to trade - not even for one call, not even when you ask. 
 
-When you're with him, you hate yourself. The worst parts of you emerge from shadows and into the spotlight. They thrive. The self hatred becomes rampant. You'll want to disappear. You'll try to make your existence less noticeable. You'll try to take up less space. 
+He doesn’t let you go outside alone. He doesn't trust you to be safe. His thoughts soon become yours.
 
-He'll be the giant growing, and as he grows, you shrink. You'll make yourself so small that you stop getting your period. You'll tiptoe yourself out of existence. But tiptoes still leave tiny footprints. You'll always exist too much for him.
+The bathtub will be the only space for you to exist as you are. And still, you muffle your cries in the bathtub. 
 
-You'll realize that you've been protecting him. You took his behaviour as your flaws. You didn't want people you loved, the people who respected you to know the secrets behind these doors. 
+When you're with him, you hate yourself. The worst parts of you emerge from shadows and into the spotlight. They thrive. The self hatred becomes rampant. You want to disappear. You try to make your existence less noticeable. You try to take up less space. 
+
+He becomes the giant growing in the apartment. As he grows, you shrink. You make yourself so small that you stop getting your period. You tiptoe yourself out of existence. But tiptoes still leave tiny footprints. You always exist too much for him.
+
+You realize that you've been protecting him. You took his behaviour as your flaws. You didn't want people you loved, the people who respected you to know the secrets behind these doors. 
 
 You abandoned yourself rather than the apartment or the relationship. You stayed for everyone but you. And I know you feel embarrassed and ashamed as you read that. And I get that, because I did the same thing. But that'll change because you make it change. 
 
-But you are a full person. And you deserve to live in places where you can be your whole goddamn self. So you'll leave. 
+But you are a full person. And you deserve to live in places where you can be your whole goddamn self. 
 
-_Wings drumming. She makes her next move._ 
+*Wings drumming. She makes her next move.*
 
-In your shoebox in the sky in Toronto, you'll realize that he muted you in one of the loudest cities in the world. Blue skies become grey in New York. Two weeks in your 500 square foot apartment in downtown Toronto will feel like the most majestic sunset. Even in quarantine, even in a pandemic.
+In your shoebox in the sky in Toronto, you realize that he muted you in one of the loudest cities in the world. Blue skies become grey in New York. Two weeks in your 500 square foot apartment in downtown Toronto feels like the most majestic sunset. Even in quarantine, even in a pandemic.
 
 Someone had been playing tug of war with your life. Comfort versus growth. After months of comfort winning, the rope is changing. Digging her heels into the ground, growth is starting to get her footing. Her hands are blisters from the twisting of the rope. 
 
@@ -79,9 +88,9 @@ She's going to win.
 
 She wins. 
 
-From the release of tension, you'll fall forward.
+With the release of tension, you fall forward.
 
-_Wings drumming. You'll make your next move._ 
+Wings drumming. You make your next move.
 
 I can't wait for you to get here. We're on the precipice of something incredible. And that something is the life we're building and who we're becoming.
 
@@ -90,4 +99,3 @@ I am so incredibly proud of us. And that's because of you.
 Always, 
 
 Shannon
-
