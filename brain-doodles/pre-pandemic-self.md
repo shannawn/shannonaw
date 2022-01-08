@@ -16,9 +16,9 @@ I don’t know how to describe it in words. The emotions felt. Pain suffered. Li
 
 You grow in ways you never imagined - in ways that I still find unbelievable. 
 
-You won’t know if you can bear it. The muscles around your heart feel so tight that if you inhale, they'll snap - like an elastic stretched too far. 
+You don’t know if you can bear it. The muscles around your heart feel so tight that if you inhale, they'll snap - like an elastic stretched too far.
 
-And you’re one of the lucky ones.
+But you will. You’re one of the lucky ones.
 
 Life will become a blur. Like watching a hummingbird’s wings in flight. You can’t see it or process it. You know she’s moving from the soft drum of her wings. 
 
@@ -84,7 +84,7 @@ But you are a full person. And you deserve to live in places where you can be yo
 
 He muted you in one of the loudest cities in the world. And your shoebox in downtown Toronto is like the loudest goddamn concert. Heart beating to the bass. Singing the words so loud that you lose your voice. Even in quarantine. Even in a pandemic.
 
-Someone had been playing tug of war with your life. Comfort versus growth. After months of Comfort winning, Growth's hands blistering from the twisting rope and her feet skidding closer and closer to comfort, it's changing. 
+Someone had been playing tug of war with your life. Comfort versus growth. After months of Comfort winning, Growth's hands blistering from the twisting rope and her feet skidding closer and closer to comfort. It's changing. 
 
 Digging her heels into the ground, Growth is starting to get her footing.
 

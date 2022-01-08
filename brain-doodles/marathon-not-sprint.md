@@ -4,11 +4,11 @@ date: June 5 2021
 ---
 I've been training for a marathon. Well, I wasn't training for a marathon - but I've been doing the training program for people who are training for a marathon.
 
-My goal was to be able to 20km (almost a proper half marathon is 21.1km) every few weeks, like I previously did with 7km or 10km runs.
+My goal was to be able to run 20km (almost a proper half marathon is 21.1km) every few weeks, like I previously did with 7km or 10km runs.
 
-Yet, almost 11 weeks into the program, I've run about 300km. And I've run three half marathons - two of them in the past two weeks.
+Almost 11 weeks into the program, I've run 300km. And I've run three half marathons - two of them in the past two weeks.
 
-This is way more running than I thought I'd ever do. I planned on doing half the program as I only wanted to be able to run a half marathons every few weeks.
+*This is way more running than I thought I'd ever do.* I planned on doing half the program as I only wanted to be able to run a half marathons every few weeks.
 
 This past week, a few days before my third half marathon, I'd been thinking about continuing with the program - getting all the way to 42km, a proper marathon. I hadn't been happy with my times and I wanted to train harder.
 
