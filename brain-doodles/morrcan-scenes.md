@@ -88,3 +88,5 @@ Sitting in a eucalyptus steam room as a women dumps a bucket of water on you. Ru
 Two motorbikes driving side by side and talking as they ride. Motorbikes talking to pedestrian and picking up or dropping off a friend at intersections.
 
 Patios line the streets with men sitting in chairs facing the streets sipping tea. 
+
+Sometimes, our host wore a hijab, but not every day. While women may be modest in the streets, they are more comfortable in their nudity than North American women are at the hammam.
