@@ -59,9 +59,9 @@ h3 {
   margin: 0px auto 10px auto;
 }
 
-.quote {
+.review {
   width: 750px;
-  max-width: 750px;
+  max-width: 100%;
   margin: 0 auto 70px auto;
   border: solid;
   border-color: #C2BEC4;
