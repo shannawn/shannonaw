@@ -9,6 +9,10 @@ body {
   text-align: center;
 }
 
+main {
+  margin-bottom: 48px;
+}
+
 h1 {
   font-family: 'Playfair', serif;
   font-size: 48px;
@@ -144,9 +148,9 @@ b {
 }
 
 .footer-container p {
-  max-width: 750px;
+  max-width: 100%;
   text-align: left;
-  width: 100%;
+  width: 750px;
 }
 
 @media only screen and (max-width: 750px) {
