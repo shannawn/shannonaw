@@ -43,19 +43,19 @@ h3 {
 }
 
 .headshot {
-  width: 250px;
+  width: 300px;
   max-width: 300px;
 }
 
 .nannylane-hero {
-  width: 450px;
-  max-width: 400px;
+  width: 750px;
+  max-width: 100%;
   margin: 0px auto 20px auto;
 }
 
 .teamshot {
-  width: 450px;
-  max-width: 400px;
+  width: 750px;
+  max-width: 100%;
   margin: 0px auto 10px auto;
 }
 
