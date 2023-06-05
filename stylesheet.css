@@ -63,17 +63,6 @@ h3 {
   margin: 0px auto 10px auto;
 }
 
-.review {
-  width: 750px;
-  max-width: 100%;
-  margin: 0 auto 70px auto;
-  border: solid;
-  border-color: #C2BEC4;
-  border-width: 2px;
-  margin-bottom: 20px;
-  background-color: #FFFFFF;
-}
-
 .contact-icon {
   margin: 0 10px;
   width: 32px;
@@ -82,6 +71,23 @@ h3 {
 .quote-icon {
   margin: 0 10px;
   width: 68px;
+}
+
+.review p {
+  margin: 10px;
+  max-width: 750px;
+  width: 100%;
+}
+
+.review {
+  margin-bottom: 32px;
+  max-width: 750px;
+  max-width: 100%;
+}
+
+.google {
+  margin: 0 10px;
+  width: 100px;
 }
 
 .text-container-left {
