@@ -1,0 +1,26 @@
+---
+title: Etosha and Windhoek
+date: Aug 22 2022
+---
+
+This weekend, we had our last safari in Etosha National Park in Namibia. Breaking away from the deserts of Namibia, Etosha is still a semi-desert but enough water that you can find wildlife that rely on it.
+
+It makes the watering hole the best point for action. Animals trek across the dry landscape to the various watering holes. All around the watering hole, there are herds of springbok, zebra, kudu, red hartebeest, black-faced impala. Some drinking the water. Others cooling themselves by standing it. Most either walking towards the watering hole or waiting around it.
+
+Thirsty animals aren’t the only ones waiting around the watering hole - it’s also where the hungry ones wait. Four lions rested by the watering hole soaking in the sunlight. The lioness spots an Oryx walking close by. The resting lions quickly shift into hunting position. The male lions stay back getting as low as possible to blend into the grass while the lioness does the same closer to the prey. The Oryx gets close enough to the animals that the lioness goes for it - but fails.
+
+Through the Savannah, the cheetah and her young cubs walk through the tall grass looking for their next meal. The mum alternates between surveying the land and standing tall on rocks to get a better view. The cubs prance and fumble over themselves. Only a few months old, they’re extraordinarily fluffy and resemble a bush more than their mother. Like lion cubs, cheetah cubs camouflage with their environment and grow into the patterns we know and love.
+
+We were becoming quite nostalgic about this safari - even while on it.
+
+The sunrise on an early morning safari has a way of reminding you the magic of a new day. Sun-kissed silky grass glows between the purple barren trees. Leaves of trees turn into little flames resting on branches. 
+
+Like a sunrise, the sunset has a similar effect - but a day on a bush holiday is not complete without a “sundowner” (a drink) to accompany the view.
+
+The guide talking about how ostriches eat really spiked plants that most other animals can’t handle. Shannon thinking about how that must hurt their tongues asks “Do ostriches have tongues?” After a pause, the guide replies “I’ve checked chickens”. The next question “Do all animals have tongues?” Each animal runs through the group’s mind confirming if they have a tongue or not. 
+
+In our travels across Namibia, we were lucky enough to make two friends: Jonathan and Otilia. They both work in Windhoek at the headquarters of the company that runs the lodges we’ve been staying at, Gondwana. 
+
+Jonathan was kind enough to take me on a day trip to visit the township in Windhoek, Katatura. Townships exist through informality. The people here make informal houses, run informal businesses, and build informal services to live. The road is lined with entrepreneurs at tiny tables and shacks made from zig. There is everything from hairdressers and barbers to “We cut meat” and produce stands to second-hand clothes and shoes and plants. There are lots of farmers in the area, so “we cut meat” is literally a service of cutting meat from animals. The most common business is a carwash combines with sheebin and barbers. The carwashes are so lively that it becomes “the spot” to hang out on the weekends. Shibeen is a tavern. Namibia has one of the world’s highest beer-drinking populations and that’s especially true in the townships. Katutura is most famous for kapana - flamed grilled beef. Hot off the flames rolled in salt or spices you can try the meat of any stand before you commit to a box. There’s 8-10 different grills and butchering stations in one of the many open markets that reminds me of the fresh fish market in Barbados. These townships are complicated - starting from racial segregation and excluding them from the formal economy, services, and infrastructure leaves them to stand on their own. This means lots of homes don’t have electricity and running water until the government decides there’s enough people living there to warrant the creation of them. People who have full-time jobs often live in the townships because the housing market is so expensive. Businesses in the townships are sustained through those that live in the township often continuing the cycle of poverty through excessive drinking. There isn’t much to do in the township other than drink or sit around - and that’s what most end up doing. 
+
+Windhoek has been an interesting city. Nick and I both felt less safe here than in Cape Town. We've had children beg and follow us for blocks. I've been cat-called (by a woman and men). Reminding us more of Morocco than we'd imagined given how positively spoke about Namibia's safety compared to South Africa. However, Windhoek is a hub for crime compared to the rest of Namibia. (Outside of the drug market around Swakopmund). We met a family from Angola who is moving to Windhoek as it's a peaceful city. This has reminded us of our perspective and safety privilege.
